@@ -1,6 +1,6 @@
 ## cs50_pset1
 
-## Usage
+### Usage
 This is my solution for Problem Set 1 of Harvard’s CS50 course.  The solution contains multiple files, each with a unique solutions.
 
 # Hello
